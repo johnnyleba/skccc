@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nKFkJXECE0N45aqHBsu3Qpl6EL8=
+		SrI7ethq+etr18PY+cJ/23Hai84=
 		</data>
 		<key>Modules/VncDemonNFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/VncDemonNFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		7r6/NI4bMK9PoOPNiNfK6JiMB7o=
+		EeFNqJKoWD+zzQiHBDTtsu8QyEQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -443,11 +443,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7r6/NI4bMK9PoOPNiNfK6JiMB7o=
+			EeFNqJKoWD+zzQiHBDTtsu8QyEQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			GQ4n3sgYayZGR384PW993g/G3nWxZvb8z1cUUlInCzA=
+			kFoEfnSnRBX2VmwERewZguYksREpj5EZAQ6ktAIhGno=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
