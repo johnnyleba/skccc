@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/VncDemonNFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		pCsFf549l0C8mzWRVsMWvUhtdHU=
+		OnoEBRIz/7sbOjuM5DzrJYLCMHc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -443,11 +443,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pCsFf549l0C8mzWRVsMWvUhtdHU=
+			OnoEBRIz/7sbOjuM5DzrJYLCMHc=
 			</data>
 			<key>hash2</key>
 			<data>
-			hVO3GsworEs2G3NtvpJ8KOXWGO4xi6LX41K6SSyw5z0=
+			NcifRC5PmWBb1mDcY/y1+svq3ZXJDj2lLwzVE1dq4CI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
