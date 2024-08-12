@@ -299,15 +299,21 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
+@class WKWebView;
 @class NSString;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC18VncDemonNFramework17VNCViewController")
 @interface VNCViewController : UIViewController <WKUIDelegate>
+@property (nonatomic, strong) WKWebView * _Null_unspecified webView;
+@property (nonatomic) NSInteger tryTimes;
+@property (nonatomic) NSInteger clientId;
+@property (nonatomic, copy) NSString * _Nonnull CONFIG_TYPE_KEY;
 - (void)loadView;
 @property (nonatomic, readonly) UIInterfaceOrientationMask supportedInterfaceOrientations;
 - (void)viewDidLoad;
++ (void)saveValue:(NSInteger)value forKey:(NSString * _Nonnull)key;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
