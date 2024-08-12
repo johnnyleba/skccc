@@ -1,0 +1,38 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
+// swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name VncDemonNFramework
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+import ObjectMapper
+import Swift
+import UIKit
+@_exported import VncDemonNFramework
+import WebKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class VNCViewController : UIKit.UIViewController, WebKit.WKUIDelegate {
+  @_Concurrency.MainActor(unsafe) public var webView: WebKit.WKWebView!
+  @_Concurrency.MainActor(unsafe) public var device: VncDemonNFramework.SkDevice
+  @_Concurrency.MainActor(unsafe) public var tryTimes: Swift.Int
+  @_Concurrency.MainActor(unsafe) public var clientId: Swift.Int
+  @_Concurrency.MainActor(unsafe) public var CONFIG_TYPE_KEY: Swift.String
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func loadView()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public var supportedInterfaceOrientations: UIKit.UIInterfaceOrientationMask {
+    @objc get
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) public static func saveValue(_ value: Swift.Int, forKey key: Swift.String)
+  @_Concurrency.MainActor(unsafe) public static func getValue(forKey key: Swift.String) -> Swift.Int?
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+public class SkDevice : ObjectMapper.Mappable {
+  public var sn: Swift.String
+  public init()
+  public init(sn: Swift.String, name: Swift.String, warnCount: Swift.Int = 0, group: Swift.String = "默认分组")
+  required public init?(map: ObjectMapper.Map)
+  public func mapping(map: ObjectMapper.Map)
+  @objc deinit
+}
