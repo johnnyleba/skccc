@@ -1129,1246 +1129,1246 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 302,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 331,
       "length": 1,
-      "value": "1"
+      "value": "2"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 394,
       "length": 10,
       "value": "\"confType\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 1129,
       "length": 13,
       "value": "\"orientation\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1784,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1816,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1951,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 1977,
       "length": 21,
       "value": "\"switch connect type\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2371,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "FloatLiteral",
       "offset": 2403,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2809,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2916,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 2984,
       "length": 40,
       "value": "\"getst1234*******************: \""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 3023,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 3102,
       "length": 52,
       "value": "\"\/VncDemonNFramework.framework\/vncwww\/novnc\/images\/\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 3178,
       "length": 23,
       "value": "\"\/vncwww\/novnc\/images\/\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 3225,
       "length": 45,
       "value": "\"\/VncDemonNFramework.framework\/vncwww\/novnc\/\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 3294,
       "length": 16,
       "value": "\"\/vncwww\/novnc\/\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 3357,
       "length": 3,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 3372,
       "length": 6,
       "value": "\".cfg\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3432,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 3506,
       "length": 6,
       "value": "\".cfg\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3570,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 3648,
       "length": 6,
       "value": "\".cfg\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3716,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3812,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 3866,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 3870,
       "length": 16,
       "value": "\"127.0.0.1:7530\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 3992,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 4016,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 4019,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 4022,
       "length": 16,
       "value": "\"127.0.0.1:7530\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 4040,
       "length": 16,
       "value": "\"127.0.0.1:7530\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 4143,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 4229,
       "length": 34,
       "value": "\"  Connect Failed error = \""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 4262,
       "length": 16,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 4376,
       "length": 13,
       "value": "\"orientation\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 4438,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 4521,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 4644,
       "length": 93,
       "value": "\"(DevID){\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 4660,
       "length": 1,
       "value": "\"}(MacAddr){}(CpuMHz){0}(MemSize){0}(BrwVer){}(OSVer){}(OSSpk){}(OSType){IOS}\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 4785,
       "length": 63,
       "value": "\"VNCViewController path 1######### \""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 4847,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 4950,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 4994,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 5293,
       "length": 93,
       "value": "\"(DevID){\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 5309,
       "length": 1,
       "value": "\"}(MacAddr){}(CpuMHz){0}(MemSize){0}(BrwVer){}(OSVer){}(OSSpk){}(OSType){IOS}\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 5579,
       "length": 33,
       "value": "\"All resources: \""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 5611,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 10696,
       "length": 46,
       "value": "\"VNCViewController path -> ######### \""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 10740,
       "length": 2,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 10904,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 10928,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 10931,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 10934,
       "length": 16,
       "value": "\"127.0.0.1:7530\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 10952,
       "length": 16,
       "value": "\"127.0.0.1:7530\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 11058,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 11106,
       "length": 50,
       "value": "\"<html><body><p>Connect failed!<\/p><\/body><\/html>\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 11395,
       "length": 31,
       "value": "\"file:\/\/\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 11416,
       "length": 1,
       "value": "\"\/vnc.html\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 11455,
       "length": 40,
       "value": "\"?host=127.0.0.1&port=7530&true_color=1\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 11549,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 11572,
       "length": 22,
       "value": "\"file:\/\/\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 11593,
       "length": 16,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 11608,
       "length": 10,
       "value": "\"vnc.html\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 11676,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 11703,
       "length": 22,
       "value": "\"file:\/\/\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 11724,
       "length": 16,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 11739,
       "length": 10,
       "value": "\"vnc.html\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 11811,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 12231,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 12244,
       "length": 16,
       "value": "\"Connect failed\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 12271,
       "length": 4,
       "value": "\"OK\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 12334,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 12404,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 12510,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 12523,
       "length": 17,
       "value": "\"Please Re-Login\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 12551,
       "length": 4,
       "value": "\"OK\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 12614,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 12684,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 12782,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 12795,
       "length": 10,
       "value": "\"Exit VNC\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 12816,
       "length": 4,
       "value": "\"OK\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 12932,
       "length": 13,
       "value": "\"orientation\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 13066,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 13090,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 13093,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 13096,
       "length": 16,
       "value": "\"127.0.0.1:7530\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 13114,
       "length": 16,
       "value": "\"127.0.0.1:7530\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 13163,
       "length": 52,
       "value": "\"pgTunnelConnect del222*******************: \""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 13214,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 13288,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 13333,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 13405,
       "length": 40,
       "value": "\"getst1234*******************: \""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 13444,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 13597,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 13627,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 13677,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 13758,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 13870,
       "length": 3,
       "value": "\"#\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 13910,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 13991,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 14014,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 14099,
       "length": 3,
       "value": "\"#\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 14133,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 14168,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 14226,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 14311,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 14333,
       "length": 9,
       "value": "\"use ywt\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 14363,
       "length": 5,
       "value": "\"ywt\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 14413,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 14435,
       "length": 7,
       "value": "\"use a\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 14463,
       "length": 3,
       "value": "\"a\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 14491,
       "length": 7,
       "value": "\"use b\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 14515,
       "length": 3,
       "value": "\"b\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 14598,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 14620,
       "length": 9,
       "value": "\"use ywt\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 14650,
       "length": 5,
       "value": "\"ywt\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 14700,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 14722,
       "length": 7,
       "value": "\"use a\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 14750,
       "length": 3,
       "value": "\"a\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 14778,
       "length": 7,
       "value": "\"use b\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 14802,
       "length": 3,
       "value": "\"b\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 15132,
       "length": 27,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 15145,
       "length": 12,
       "value": "\" 文件存在\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 15184,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 15230,
       "length": 29,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 15242,
       "length": 15,
       "value": "\" 文件不存在\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 15284,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "StringLiteral",
       "offset": 15336,
       "length": 15,
       "value": "\"无效的 URL\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/VNCViewController.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/VNCViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 15372,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 235,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 261,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 289,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 315,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 336,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 353,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "BooleanLiteral",
       "offset": 371,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 398,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 420,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 448,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 474,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 497,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 518,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "FloatLiteral",
       "offset": 540,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "FloatLiteral",
       "offset": 564,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 590,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 614,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 637,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 657,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 675,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 697,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 734,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 819,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 838,
       "length": 14,
       "value": "\"默认分组\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 1090,
       "length": 12,
       "value": "\"activeTime\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 1166,
       "length": 12,
       "value": "\"bindStatus\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 1248,
       "length": 6,
       "value": "\"name\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 1274,
       "length": 4,
       "value": "\"sn\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 1302,
       "length": 8,
       "value": "\"status\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 1335,
       "length": 9,
       "value": "\"groupId\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 1402,
       "length": 6,
       "value": "\"sort\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "IntegerLiteral",
       "offset": 1428,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "BooleanLiteral",
       "offset": 1452,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 1570,
       "length": 11,
       "value": "\"netStatus\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/SkDevice.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/SkDevice.swift",
       "kind": "StringLiteral",
       "offset": 1742,
       "length": 17,
       "value": "\"firmwareVersion\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/Utils.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/Utils.swift",
       "kind": "StringLiteral",
       "offset": 462,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/Utils.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/Utils.swift",
       "kind": "StringLiteral",
       "offset": 513,
       "length": 47,
       "value": "\"\/Documents\/\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/Utils.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/Utils.swift",
       "kind": "StringLiteral",
       "offset": 530,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/Utils.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/Utils.swift",
       "kind": "StringLiteral",
       "offset": 558,
       "length": 1,
       "value": "\")\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/Utils.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/Utils.swift",
       "kind": "StringLiteral",
       "offset": 631,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/Utils.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/Utils.swift",
       "kind": "StringLiteral",
       "offset": 690,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/Utils.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/Utils.swift",
       "kind": "StringLiteral",
       "offset": 738,
       "length": 55,
       "value": "\"\/Documents\/\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/Utils.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/Utils.swift",
       "kind": "StringLiteral",
       "offset": 755,
       "length": 1,
       "value": "\"\/Database\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/Utils.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/Utils.swift",
       "kind": "StringLiteral",
       "offset": 792,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/Utils.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/Utils.swift",
       "kind": "StringLiteral",
       "offset": 907,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/Utils.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/Utils.swift",
       "kind": "StringLiteral",
       "offset": 912,
       "length": 14,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework\/VncDemonNFramework\/Utils.swift",
+      "filePath": "\/Users\/samkoon_macmini\/Desktop\/vnclibrary\/SamkoonVnc_VncDemoNDemo_VncDemonNFramework\/VncDemonNFramework_ywtII\/VncDemonNFramework\/Utils.swift",
       "kind": "StringLiteral",
       "offset": 925,
       "length": 1,
