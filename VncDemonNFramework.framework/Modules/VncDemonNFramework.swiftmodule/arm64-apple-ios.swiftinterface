@@ -13,7 +13,7 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 @objc @_inheritsConvenienceInitializers @objcMembers @_Concurrency.MainActor(unsafe) public class VNCViewController : UIKit.UIViewController, WebKit.WKUIDelegate {
   @objc @_Concurrency.MainActor(unsafe) public var webView: WebKit.WKWebView!
-  @_Concurrency.MainActor(unsafe) public var device: VncDemonNFramework.SkDevice!
+  @objc @_Concurrency.MainActor(unsafe) public var device: VncDemonNFramework.SkDevice!
   @objc @_Concurrency.MainActor(unsafe) public var tryTimes: Swift.Int
   @objc @_Concurrency.MainActor(unsafe) public var clientId: Swift.Int
   @objc @_Concurrency.MainActor(unsafe) public var CONFIG_TYPE_KEY: Swift.String
@@ -28,9 +28,9 @@ import _SwiftConcurrencyShims
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
-@objcMembers public class SkDevice : ObjectMapper.Mappable {
+@objc @_inheritsConvenienceInitializers @objcMembers public class SkDevice : ObjectiveC.NSObject, ObjectMapper.Mappable {
   @objc public var sn: Swift.String
-  @objc public init()
+  @objc override dynamic public init()
   @objc public init(sn: Swift.String, name: Swift.String, warnCount: Swift.Int = 0, group: Swift.String = "默认分组")
   required public init?(map: ObjectMapper.Map)
   public func mapping(map: ObjectMapper.Map)

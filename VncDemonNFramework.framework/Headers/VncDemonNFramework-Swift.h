@@ -277,6 +277,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import ObjectiveC;
 @import UIKit;
 @import WebKit;
 #endif
@@ -299,14 +300,23 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
-@class WKWebView;
 @class NSString;
+
+SWIFT_CLASS("_TtC18VncDemonNFramework8SkDevice")
+@interface SkDevice : NSObject
+@property (nonatomic, copy) NSString * _Nonnull sn;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithSn:(NSString * _Nonnull)sn name:(NSString * _Nonnull)name warnCount:(NSInteger)warnCount group:(NSString * _Nonnull)group OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class WKWebView;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC18VncDemonNFramework17VNCViewController")
 @interface VNCViewController : UIViewController <WKUIDelegate>
 @property (nonatomic, strong) WKWebView * _Null_unspecified webView;
+@property (nonatomic, strong) SkDevice * _Null_unspecified device;
 @property (nonatomic) NSInteger tryTimes;
 @property (nonatomic) NSInteger clientId;
 @property (nonatomic, copy) NSString * _Nonnull CONFIG_TYPE_KEY;
