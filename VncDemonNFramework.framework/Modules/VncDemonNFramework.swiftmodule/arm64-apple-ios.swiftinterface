@@ -28,10 +28,10 @@ import _SwiftConcurrencyShims
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
-public class SkDevice : ObjectMapper.Mappable {
-  public var sn: Swift.String
-  public init()
-  public init(sn: Swift.String, name: Swift.String, warnCount: Swift.Int = 0, group: Swift.String = "默认分组")
+@objcMembers public class SkDevice : ObjectMapper.Mappable {
+  @objc public var sn: Swift.String
+  @objc public init()
+  @objc public init(sn: Swift.String, name: Swift.String, warnCount: Swift.Int = 0, group: Swift.String = "默认分组")
   required public init?(map: ObjectMapper.Map)
   public func mapping(map: ObjectMapper.Map)
   @objc deinit
