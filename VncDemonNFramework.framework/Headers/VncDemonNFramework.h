@@ -51,8 +51,6 @@
               : 1.‘ˆº”pgTunnelPeerAuthReply∫Ø ˝
               :
 *****************************************************************/
-#import <Foundation/Foundation.h>
-
 #ifndef _PG_LIB_TUNNEL_H
 #define _PG_LIB_TUNNEL_H
 

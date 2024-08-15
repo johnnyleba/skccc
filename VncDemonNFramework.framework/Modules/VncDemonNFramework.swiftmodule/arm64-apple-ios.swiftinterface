@@ -12,7 +12,7 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 @objc @_inheritsConvenienceInitializers @objcMembers @_Concurrency.MainActor(unsafe) public class VNCViewController : UIKit.UIViewController, WebKit.WKUIDelegate {
   @objc @_Concurrency.MainActor(unsafe) public var webView: WebKit.WKWebView!
-  @objc @_Concurrency.MainActor(unsafe) public var device: VncDemonNFramework.SkDevice!
+  @objc @_Concurrency.MainActor(unsafe) public var device: VncDemonNFramework.SkDevice
   @objc @_Concurrency.MainActor(unsafe) public var tryTimes: Swift.Int
   @objc @_Concurrency.MainActor(unsafe) public var clientId: Swift.Int
   @objc @_Concurrency.MainActor(unsafe) public var CONFIG_TYPE_KEY: Swift.String

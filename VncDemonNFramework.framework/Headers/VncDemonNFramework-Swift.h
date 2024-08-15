@@ -316,7 +316,7 @@ SWIFT_CLASS("_TtC18VncDemonNFramework8SkDevice")
 SWIFT_CLASS("_TtC18VncDemonNFramework17VNCViewController")
 @interface VNCViewController : UIViewController <WKUIDelegate>
 @property (nonatomic, strong) WKWebView * _Null_unspecified webView;
-@property (nonatomic, strong) SkDevice * _Null_unspecified device;
+@property (nonatomic, strong) SkDevice * _Nonnull device;
 @property (nonatomic) NSInteger tryTimes;
 @property (nonatomic) NSInteger clientId;
 @property (nonatomic, copy) NSString * _Nonnull CONFIG_TYPE_KEY;
