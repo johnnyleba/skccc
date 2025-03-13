@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/VncDemonNFramework-Swift.h</key>
 		<data>
-		mMRyRUwQgH5z3tZzB++fGbbwaI8=
+		KS9n3bo5zs61AD1zpxKJo0m7rww=
 		</data>
 		<key>Headers/VncDemonNFramework.h</key>
 		<data>
@@ -14,27 +14,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nKFkJXECE0N45aqHBsu3Qpl6EL8=
+		xTMNtvbBBUwnWjEUweIbRop3tVE=
 		</data>
 		<key>Modules/VncDemonNFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		7SE7tdhUEKbEkRRkVBJvFdKK9xg=
+		91BGzFwfzDgvpq3hlWb7pc+SGn8=
 		</data>
 		<key>Modules/VncDemonNFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		mBNs76mMeRNW+eLJzW16OUl9fao=
+		6gT4Ki0LH7cmaEe4Dmq9Oa0psWA=
 		</data>
 		<key>Modules/VncDemonNFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		IB1DlGDWtzoJm3nvKkQGgHw3Rys=
+		w/Wu2RVBfR1sxk0Rd+MB9KXAMr4=
 		</data>
 		<key>Modules/VncDemonNFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		mBNs76mMeRNW+eLJzW16OUl9fao=
+		6gT4Ki0LH7cmaEe4Dmq9Oa0psWA=
 		</data>
 		<key>Modules/VncDemonNFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		41vZYMDW1aHjtoATZvfsywG7Y2s=
+		M8RYdbP0NWLrtnRPwH4ZCk3xeEM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -644,6 +644,10 @@
 		<data>
 		Ot1/ptSAzz55Hjd3QQ9frIEiumE=
 		</data>
+		<key>vncwww/novnc/images/us.cfg</key>
+		<data>
+		Z4dsYXAZoqWsXfw9/64DzvT/n+k=
+		</data>
 		<key>vncwww/novnc/images/ywt.cfg</key>
 		<data>
 		FUwaN1v7f71NhASacn6jDylrabc=
@@ -767,11 +771,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mMRyRUwQgH5z3tZzB++fGbbwaI8=
+			KS9n3bo5zs61AD1zpxKJo0m7rww=
 			</data>
 			<key>hash2</key>
 			<data>
-			h3hFN0VLfUABTs61eDAMTw5XXdheWpjM6OGrQSU4kKE=
+			fJfrdonL2Q+lHFztSxwLZMcMGNTeUJ/tynHaoFeODJM=
 			</data>
 		</dict>
 		<key>Headers/VncDemonNFramework.h</key>
@@ -789,55 +793,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7SE7tdhUEKbEkRRkVBJvFdKK9xg=
+			91BGzFwfzDgvpq3hlWb7pc+SGn8=
 			</data>
 			<key>hash2</key>
 			<data>
-			SLRwjcUzK+2/z8mPAYuu2wqwjF1BLAPyafjyR8GT2y8=
+			1madc+JHsQCD/mf2p2GFaNf9y4wMAeZi7Y7vZoratPw=
 			</data>
 		</dict>
 		<key>Modules/VncDemonNFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mBNs76mMeRNW+eLJzW16OUl9fao=
+			6gT4Ki0LH7cmaEe4Dmq9Oa0psWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			3gb63eBzKR3A4Jo/Gc/4jgy0gy+g9zFFIxtBNQF7qJc=
+			Wi44Lh3A9vD5dWkHT5aofvPQLDTeevkqNyTTI05XPFw=
 			</data>
 		</dict>
 		<key>Modules/VncDemonNFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IB1DlGDWtzoJm3nvKkQGgHw3Rys=
+			w/Wu2RVBfR1sxk0Rd+MB9KXAMr4=
 			</data>
 			<key>hash2</key>
 			<data>
-			8IOYAYgdjBeASK6pv73zxIeX7TvfZHoZ285pqEtXuXM=
+			vKm2eZ5uJVhjjj94HEAHUQpIS4nDXc5ZNQn9zj06QWU=
 			</data>
 		</dict>
 		<key>Modules/VncDemonNFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mBNs76mMeRNW+eLJzW16OUl9fao=
+			6gT4Ki0LH7cmaEe4Dmq9Oa0psWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			3gb63eBzKR3A4Jo/Gc/4jgy0gy+g9zFFIxtBNQF7qJc=
+			Wi44Lh3A9vD5dWkHT5aofvPQLDTeevkqNyTTI05XPFw=
 			</data>
 		</dict>
 		<key>Modules/VncDemonNFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			41vZYMDW1aHjtoATZvfsywG7Y2s=
+			M8RYdbP0NWLrtnRPwH4ZCk3xeEM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xv8XOwJle2p6idlhmD7duiLLBALS5TdL49L6AqFSUD0=
+			yoPUf2zValbd6d8DKq1v/zHQVQeEwvt7p6Vt758fgOI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2510,6 +2514,17 @@
 			<key>hash2</key>
 			<data>
 			/bGhP9/uv+LmaIKBfFA/7w0213mNHjsnF8iCci8RIXI=
+			</data>
+		</dict>
+		<key>vncwww/novnc/images/us.cfg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z4dsYXAZoqWsXfw9/64DzvT/n+k=
+			</data>
+			<key>hash2</key>
+			<data>
+			ezB4gAdl7lNk0cXlWQWDk7KHSXKrf5hopqLXL6vMSjg=
 			</data>
 		</dict>
 		<key>vncwww/novnc/images/ywt.cfg</key>
