@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'VncDemonNFramework'
-  s.version      = '1.0.33'
+  s.version      = '1.0.39'
   s.summary      = 'A short description of VncDemonNFramework.'
   s.description  = 'A detailed description of VncDemonNFramework.'
   s.homepage     = 'https://github.com/johnnyleba/skccc'
